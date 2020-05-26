@@ -1,10 +1,5 @@
 # Passorfail-MachineLearning-DecisionTree-Hackathon
 
-## Data set
-### Data set contain:
+## Problem Statement
 
-'id', 'program_id', 'program_type', 'program_duration', 'test_id',
-'test_type', 'difficulty_level', 'trainee_id', 'gender', 'education',
-'city_tier', 'age', 'total_programs_enrolled', 'is_handicapped',
-'trainee_engagement_rating', 'is_pass'
-
+![](80747310-de2ed380-8b40-11ea-838b-e5915a878668.JPG)
