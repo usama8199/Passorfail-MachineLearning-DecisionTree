@@ -8,5 +8,3 @@
 'city_tier', 'age', 'total_programs_enrolled', 'is_handicapped',
 'trainee_engagement_rating', 'is_pass'
 
-## Predict
-Here we have to predict whether a student has passed the test or not
