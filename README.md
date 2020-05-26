@@ -1,4 +1,4 @@
-# Passorfail-MachineLearning-DecisionTree
+# Passorfail-MachineLearning-DecisionTree-Hackathon
 
 ## Data set
 ### Data set contain:
