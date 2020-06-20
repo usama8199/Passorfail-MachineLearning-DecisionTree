@@ -9,7 +9,8 @@
 
 ![](80747310-de2ed380-8b40-11ea-838b-e5915a878668.JPG)
 
-
+## Accuracy
+Got the accuracy of 80% by F1 Score
 ## Video (Click on the image)
  
  [<img src="https://img.youtube.com/vi/Ikj6ANjRgsI/maxresdefault.jpg" width="75%">](https://youtu.be/Ikj6ANjRgsI)
