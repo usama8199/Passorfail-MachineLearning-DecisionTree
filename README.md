@@ -1,4 +1,4 @@
-# Passorfail-MachineLearning-DecisionTree-Hackathon
+# Passorfail-Prediction-DecisionTree-Hackathon
 This project is a hackathon conducted by Analytics Vidhya
 ## Overview
 - Cleaned and preprocessed the data using NumPy, Pandas, seaborn
@@ -12,4 +12,4 @@ This project is a hackathon conducted by Analytics Vidhya
 
 ## Video (Click on the image)
  
- [<img src="https://img.youtube.com/vi/Ikj6ANjRgsI/maxresdefault.jpg" width="75%">](https://youtu.be/Ikj6ANjRgsI)
+ [<img src="https://img.youtube.com/vi/Ikj6ANjRgsI/maxresdefault.jpg" width="60%">](https://youtu.be/Ikj6ANjRgsI)
