@@ -1,5 +1,5 @@
 # Passorfail-MachineLearning-DecisionTree-Hackathon
-
+This project is a hackathon conducted by Analytics Vidhya
 ## Overview
 - Cleaned and preprocessed the data using NumPy, Pandas, seaborn
 - Reduced the dimensionality using PCA
