@@ -3,7 +3,7 @@ This project is a hackathon conducted by Analytics Vidhya
 ## Overview
 - Cleaned and preprocessed the data using NumPy, Pandas, seaborn
 - Reduced the dimensionality using PCA
-- Modeling and Prediction of trainee performance using Decision Tree with the accuracy of 80% by F1 Score
+- Modeling and Prediction of trainee performance using Decision Tree with the accuracy of 80% by F1 Score 
 
 ## Problem Statement
 
